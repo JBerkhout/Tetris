@@ -11,6 +11,7 @@ namespace Testris
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        int x = 10;
 
         public Game1()
         {
